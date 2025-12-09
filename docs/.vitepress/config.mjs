@@ -9,7 +9,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Comics', link: '/comics' }
+      { text: 'Comics', link: '/comics' },
+      { text: 'Security', link: '/security/' }
     ],
 
     sidebar: [
@@ -18,6 +19,13 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/comics' },
           { text: 'Latest', link: '/latest' }
+        ]
+      },
+      {
+        text: 'Security Comics',
+        items: [
+          { text: 'Overview', link: '/security/' },
+          { text: 'FishFace XSS', link: '/security/xss/' }
         ]
       }
     ],
