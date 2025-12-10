@@ -1,0 +1,17 @@
+Reusable prompt for new security comics (VitePress):
+
+```
+Create a new security comic page in VitePress with this info:
+- Topic/threat: <describe (e.g., A01:2021 Broken Access Control)>
+- Character: <animal/name/personality>
+- Title: <page title>
+- Scenes: ~4 scenes with short captions + lessons per scene.
+- Checklist: 4–5 concise bullet takeaways.
+
+Implementation details:
+- Add the page at docs/security/<slug>/index.md.
+- Store image placeholders in docs/security/<slug>/images/ and reference them with Markdown image syntax: ![alt](./images/<file>.png).
+- Add a link to the new page in docs/security/index.md under Featured Topics and in the Security Comics sidebar in docs/.vitepress/config.mjs.
+- Keep text ASCII; no smart quotes/dashes.
+- If images don’t exist, create empty placeholders (1x1 PNG) so links resolve.
+```

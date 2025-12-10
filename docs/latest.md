@@ -21,3 +21,4 @@ Watch this repository on GitHub to get notified when new content is published.
 ## Featured Security Story
 
 - [FishFace XSS Tale](/security/xss/)
+- [Broken Access Control](/security/access-control/)

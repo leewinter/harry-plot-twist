@@ -25,7 +25,8 @@ export default defineConfig({
         text: 'Security Comics',
         items: [
           { text: 'Overview', link: '/security/' },
-          { text: 'FishFace XSS', link: '/security/xss/' }
+          { text: 'FishFace XSS', link: '/security/xss/' },
+          { text: 'Broken Access Control', link: '/security/access-control/' }
         ]
       }
     ],
