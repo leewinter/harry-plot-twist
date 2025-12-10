@@ -10,7 +10,7 @@ hero:
       text: View Comics
       link: /comics
     - theme: alt
-      text: Latest Updates
+      text: Latest Comics
       link: /latest
 
 features:
