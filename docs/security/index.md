@@ -8,6 +8,7 @@ Explore comics focused on security themes—threat modeling mishaps, phishing fa
 - Incident response tales
 - Social engineering cautionary stories
 - [FishFace XSS Tale](/security/xss/)
+- [Broken Access Control](/security/access-control/)
 
 ## Coming Soon
 
