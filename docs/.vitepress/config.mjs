@@ -26,7 +26,8 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/security/' },
           { text: 'FishFace XSS', link: '/security/xss/' },
-          { text: 'Broken Access Control', link: '/security/access-control/' }
+          { text: 'Broken Access Control', link: '/security/access-control/' },
+          { text: 'Cryptographic Failures', link: '/security/cryptographic-failures/' }
         ]
       }
     ],
