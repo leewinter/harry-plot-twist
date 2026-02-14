@@ -7,6 +7,7 @@
 - [Broken Access Control](/security/access-control/)
 - [Cipher Slip-Ups: Cryptographic Failures](/security/cryptographic-failures/)
 - [The Misconfig Maze](/security/security-misconfiguration/)
+- [The Dependency Dominoes](/security/software-supply-chain-failures/)
 
 ## Coming Soon
 
