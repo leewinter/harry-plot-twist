@@ -1,6 +1,5 @@
 # Security Comics
 
-Explore comics focused on security themes—threat modeling mishaps, phishing fails, and superheroic defenders keeping systems safe.
 
 ## Featured Topics
 

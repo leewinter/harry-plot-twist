@@ -13,11 +13,4 @@ hero:
       text: Latest Comics
       link: /latest
 
-features:
-  - title: Original Comics
-    details: Explore a collection of original comic stories and illustrations
-  - title: Regular Updates
-    details: New content added regularly to keep you entertained
-  - title: Easy to Browse
-    details: Simple navigation to find and enjoy your favorite comics
 ---
